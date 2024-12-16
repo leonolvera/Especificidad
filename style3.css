@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(160, 201, 181);
+}
+
+#unique-div #unique-title{
+    color: rgb(231, 146, 163);
+}
+
+div h1{
+    color: rgb(139, 169, 225);
+}
+
+h1{
+    color: rgb(94, 122, 67);
+}
+
+.my-title{
+    color: rgb(197, 109, 197);
+}
+
+h1 {
+    color: rgb(174, 145, 131);
+}
